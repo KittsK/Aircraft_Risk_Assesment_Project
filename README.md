@@ -31,6 +31,9 @@ The findings include :
 
  
 ## Tableau Data Findings
+
+https://public.tableau.com/views/Phase1project_17513590045800/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ![Dashboard 1](Dashboard%201.png)
 
   
