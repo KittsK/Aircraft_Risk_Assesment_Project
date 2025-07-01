@@ -26,6 +26,6 @@ My key visualisation were :
 The summary conclusion from my findings is that the cessna 152 and 172 are the most resilient and have the lowest injury risk
 
 ## Tableau Data Findings
-!(Dashboard 1.png)
+![Dashboard 1](Dashboard%201.png)
 
   
