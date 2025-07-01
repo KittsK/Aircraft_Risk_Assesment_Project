@@ -18,9 +18,9 @@ My key visualisation were :
 * Heatmap of Aircraft Damage vs. Top Aircraft Models
 * Heatmap of Injury Severity vs. Top Aircraft Models
 
-  !(download (2).png)
-  !(download (4).png)
-  !(download (7).png)
+  ![Chart 2 from Download](download%20(2).png)
+  ![Chart 4 from Download](download%20(4).png)
+  ![Chart 7 from Download](download%20(7).png)
 
 #### Summary Conclusion of relevant findings
 The summary conclusion from my findings is that the cessna 152 and 172 are the most resilient and have the lowest injury risk
