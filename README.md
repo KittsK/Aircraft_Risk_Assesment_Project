@@ -1,17 +1,18 @@
-# Project 1
-## AviationDataset
-### Business Understanding
+# Aircraft Risk Assesment
+
+## Business Understanding
 A business firm is interested in purchasing and operating airplanes for commercial and private enterprise
 They want to know potential risks of aircrafts and I am charged with:
 
 *  Determine which aircraft are lowest risk for the company to start this business endeavor
 * Translate Findings to actionable insights that the head of aviation can use to help decide which aircraft to purchase
 
-### Data Understanding and Analysis
-#### Source of Data
+## Data Understanding and Analysis
+
+### Source of Data
 This data has been sourced from the National Transportation Safety board from 1962-2023 about civil aviation accidents and selected incidents in US International Waters
 
-#### Description of data 
+### Description of data 
 I compiled a series of data through a thorough process of data cleaning and data wrangling as well as exploratory data analysis to get critical visualisations that would help me come up with formative conclusions as to how the company can make their business desicions
 My key visualisation were :
 * Most frequently involved Aircraft Makes in Incidents
@@ -22,7 +23,7 @@ My key visualisation were :
   ![Chart 4 from Download](download%20(4).png)
   ![Chart 7 from Download](download%20(7).png)
 
-#### Summary Conclusion of relevant findings
+## Summary Conclusion of relevant findings
 Data analysis and visuals enabled me to find concrete summaries and relevant insights that will help the business make the right decisions when choosing the best aircraft
 The findings include :
 * Brands like Cessna, Piper, Beech, Boeing and Bell dominate the skies. I took note on this and based my findings focusing on these makes
